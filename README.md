@@ -12,6 +12,8 @@ Example inputs:
 
 * GPS coordinates [gps_data.example.dat](https://github.com/AgustinPardo/phylogeography/blob/master/gps_data.example.dat)
 
+* Pangolin lineages [linajes.example.txt](https://github.com/AgustinPardo/phylogeography/blob/master/linajes.example.txt)
+
 ![BP_all](https://github.com/AgustinPardo/phylogeography/blob/master/LATAM-linajes%2Barbol%2Bmapa.pn)
 ![BP_all](https://github.com/AgustinPardo/phylogeography/blob/master/Argentina-Patagonia-Referencias%2BArbol%2BMapa%2BLinajes.pn)
 
