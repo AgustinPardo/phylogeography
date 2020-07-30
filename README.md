@@ -1,8 +1,8 @@
-# phylogeography
+# phylogeography of COVID-19
 
 ## phytools (http://www.phytools.org/)
 
-Lineajes by Pangolin (https://pangolin.cog-uk.io/)
+Lineajes by Pangolin COVID-19 Lineage Assigner (https://pangolin.cog-uk.io/) 
 
 ![BP_all](https://github.com/AgustinPardo/phylogeography/blob/master/LATAM-linajes%2Barbol%2Bmapa.pn)
 ![BP_all](https://github.com/AgustinPardo/phylogeography/blob/master/Argentina-Patagonia-Referencias%2BArbol%2BMapa%2BLinajes.pn)
