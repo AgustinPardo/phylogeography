@@ -19,8 +19,8 @@ Lineajes by Pangolin COVID-19 Lineage Assigner (https://pangolin.cog-uk.io/) and
 
 Lineajes by Pangolin COVID-19 Lineage Assigner (https://pangolin.cog-uk.io/) and Covidex (https://sourceforge.net/projects/covidex/)
 
-![BP_all](https://github.com/AgustinPardo/phylogeography/blob/master/cabaTreeTom.png)
-![BP_all](https://github.com/AgustinPardo/phylogeography/blob/master/gbaTreeToom.png)
+![BP_all](https://github.com/AgustinPardo/phylogeography/blob/master/cabaTreeTom.pn)
+![BP_all](https://github.com/AgustinPardo/phylogeography/blob/master/gbaTreeToom.pn)
 
 
 ## Gengis (http://kiwi.cs.dal.ca/GenGIS/Main_Page)
