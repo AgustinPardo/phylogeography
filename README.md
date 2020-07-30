@@ -6,7 +6,7 @@ Lineajes by Pangolin COVID-19 Lineage Assigner (https://pangolin.cog-uk.io/)
 
 Code in: [tree.map.R](https://github.com/AgustinPardo/phylogeography/blob/master/tree_map.R)
 
-Inputs:
+Example inputs:
 
 * Phylogenetic Tree [tree.example.nwk](https://github.com/AgustinPardo/phylogeography/blob/master/gps_data.example.dat)
 
