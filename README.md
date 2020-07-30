@@ -8,7 +8,7 @@ Code in: [tree.map.R](https://github.com/AgustinPardo/phylogeography/blob/master
 
 Example inputs:
 
-* Phylogenetic Tree [tree.example.nwk](https://github.com/AgustinPardo/phylogeography/blob/master/gps_data.example.dat)
+* Phylogenetic Tree [tree.example.nwk](https://github.com/AgustinPardo/phylogeography/blob/master/tree.example.nwk)
 
 * GPS coordinates [gps_data.example.dat](https://github.com/AgustinPardo/phylogeography/blob/master/gps_data.example.dat)
 
