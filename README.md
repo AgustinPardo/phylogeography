@@ -15,6 +15,7 @@ Example inputs:
 * Pangolin lineages [linajes.example.txt](https://github.com/AgustinPardo/phylogeography/blob/master/linajes.example.txt)
 
 ![BP_all](https://github.com/AgustinPardo/phylogeography/blob/master/LATAM-linajes%2Barbol%2Bmapa.png)
+
 ![BP_all](https://github.com/AgustinPardo/phylogeography/blob/master/Argentina-Patagonia-Referencias%2BArbol%2BMapa%2BLinajes.png)
 
 ## microreact (https://microreact.org)
@@ -37,3 +38,10 @@ Lineajes by Pangolin COVID-19 Lineage Assigner (https://pangolin.cog-uk.io/) and
 
 
 ## SPREAD (https://www.kuleuven.be/aidslab/phylogeography/home.html)
+
+
+## Case references used
+
+* https://www.argentina.gob.ar/noticias/cientificos-y-cientificas-obtuvieron-57-nuevos-genomas-de-sars-cov2
+* https://www.argentina.gob.ar/noticias/cientificos-y-cientificas-lograron-secuenciar-mas-de-400-genomas-virales-de-sars-cov2-en
+* http://pais.qb.fcen.uba.ar/content-microreact.php
