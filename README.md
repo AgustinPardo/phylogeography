@@ -1,5 +1,13 @@
 # phylogeography of COVID-19
 
+
+|         |                                                                       |
+| ------- | --------------------------------------------------------------------- |
+| Authors | Agustin Maria Pardo                                                   |
+| Github  | [AgustinPardo](https://github.com/AgustinPardo/)                      |
+| Email   | <agustinmpardo@gmail.com>                                             | 
+
+
 ## phytools (http://www.phytools.org/)
 
 Lineajes by Pangolin COVID-19 Lineage Assigner (https://pangolin.cog-uk.io/) 
