@@ -46,3 +46,4 @@ Lineajes by Pangolin COVID-19 Lineage Assigner (https://pangolin.cog-uk.io/) and
 * https://www.argentina.gob.ar/noticias/cientificos-y-cientificas-lograron-secuenciar-mas-de-400-genomas-virales-de-sars-cov2-en
 * http://pais.qb.fcen.uba.ar/content-microreact.php
 * http://www.uba.ar/noticia/19981
+* http://www.quimicaviva.qb.fcen.uba.ar/v19n2/E0181.html
