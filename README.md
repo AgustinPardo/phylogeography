@@ -41,6 +41,11 @@ Lineajes by Pangolin COVID-19 Lineage Assigner (https://pangolin.cog-uk.io/) and
 ![BP_all](https://github.com/AgustinPardo/phylogeography/blob/master/images/cabaTreeTom.png)
 ![BP_all](https://github.com/AgustinPardo/phylogeography/blob/master/images/gbaTreeToom.png)
 
+## Flourish (https://flourish.studio/)
+
+![BP_all](https://github.com/AgustinPardo/phylogeography/blob/master/images/flourish_CABA.png)
+![BP_all](https://github.com/AgustinPardo/phylogeography/blob/master/images/flourish_barplot_CABA.png)
+
 
 ## Gengis (http://kiwi.cs.dal.ca/GenGIS/Main_Page)
 
