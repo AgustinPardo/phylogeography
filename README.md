@@ -60,3 +60,4 @@ Lineajes by Pangolin COVID-19 Lineage Assigner (https://pangolin.cog-uk.io/) and
 * http://pais.qb.fcen.uba.ar/content-microreact.php
 * http://www.uba.ar/noticia/19981
 * http://www.quimicaviva.qb.fcen.uba.ar/v19n2/E0181.html
+* https://www.argentina.gob.ar/sites/default/files/reporte_ndeg4-proyecto_pais-provincia_de_cordoba-.pdf
