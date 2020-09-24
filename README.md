@@ -53,6 +53,9 @@ Lineajes by Pangolin COVID-19 Lineage Assigner (https://pangolin.cog-uk.io/) and
 ## SPREAD (https://www.kuleuven.be/aidslab/phylogeography/home.html)
 
 
+## Folium https://python-visualization.github.io/folium/
+
+
 ## Case references used
 
 * https://www.argentina.gob.ar/noticias/cientificos-y-cientificas-obtuvieron-57-nuevos-genomas-de-sars-cov2
