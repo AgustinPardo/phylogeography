@@ -44,13 +44,16 @@ Lineajes by Pangolin COVID-19 Lineage Assigner (https://pangolin.cog-uk.io/) and
 ## Flourish (https://flourish.studio/)
 
 ![BP_all](https://github.com/AgustinPardo/phylogeography/blob/master/images/flourish_CABA.png)
-![BP_all](https://github.com/AgustinPardo/phylogeography/blob/master/images/flourish_barplot_CABA.png)
+![BP_all](https://github.com/AgustinPardo/phylogeography/blob/master/images/flourish_barPlot_CABA.png)
 
 
 ## Gengis (http://kiwi.cs.dal.ca/GenGIS/Main_Page)
 
 
 ## SPREAD (https://www.kuleuven.be/aidslab/phylogeography/home.html)
+
+
+## Folium https://python-visualization.github.io/folium/
 
 
 ## Case references used
@@ -60,3 +63,4 @@ Lineajes by Pangolin COVID-19 Lineage Assigner (https://pangolin.cog-uk.io/) and
 * http://pais.qb.fcen.uba.ar/content-microreact.php
 * http://www.uba.ar/noticia/19981
 * http://www.quimicaviva.qb.fcen.uba.ar/v19n2/E0181.html
+* https://www.argentina.gob.ar/sites/default/files/reporte_ndeg4-proyecto_pais-provincia_de_cordoba-.pdf
